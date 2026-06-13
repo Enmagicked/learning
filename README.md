@@ -12,10 +12,10 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Format|Resource|Progress|
 |---|---|---|
-|Book|[Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)|✅|
+|Book|[Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)|⬜|
 ||[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)|⬜|
 |Udacity|[A/B Testing](https://www.udacity.com/course/ab-testing--ud257)|⬜|
-||[Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)|✅|
+||[Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)|⬜|
 ||[Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)|⬜|
 ||[Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)|✅|
 ||[HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)|✅|
