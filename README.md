@@ -1,4 +1,3 @@
-```markdown
 # learning
 
 A running log of things I'm learning to build strong core software engineering skills while also expanding my knowledge of [adjacent](http://www.effectiveengineer.com/blog/master-adjacent-disciplines) technologies [everyday](https://jamesclear.com/continuous-improvement).
@@ -572,61 +571,61 @@ A running log of things I'm learning to build strong core software engineering s
 ||[LambdaMART in Depth](https://softwaredoug.com/blog/2022/01/17/lambdamart-in-depth)|⬜|
 ||[Guided Generation with Outlines](https://medium.com/canoe-intelligence-technology/guided-generation-with-outlines-c09a0c2ce9eb)|⬜|
 ||[RAG tricks from the trenches](https://duarteocarmo.com/blog/rag-tricks-from-the-trenches)|⬜|
-||[Understanding theBM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)|⬜|
-||[Arxiv: Ragas: Automated Evaluation of Retrieval Augmented Generation](https://arxiv.org/abs/2309.15217)|✅|
-||[Pinecone: Vector Databases in Production for Busy Engineers](https://www.pinecone.io/learn/series/vector-databases-in-production-for-busy-engineers/)|✅|
-||[Pinecone: Retrieval Augmented Generation](https://www.pinecone.io/learn/series/rag/)|✅|
-||[Pinecone: Faiss: The Missing Manual](https://www.pinecone.io/learn/series/faiss/)|✅|
+||[Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)|⬜|
+||[Arxiv: Ragas: Automated Evaluation of Retrieval Augmented Generation](https://arxiv.org/abs/2309.15217)|⬜|
+||[Pinecone: Vector Databases in Production for Busy Engineers](https://www.pinecone.io/learn/series/vector-databases-in-production-for-busy-engineers/)|⬜|
+||[Pinecone: Retrieval Augmented Generation](https://www.pinecone.io/learn/series/rag/)|⬜|
+||[Pinecone: Faiss: The Missing Manual](https://www.pinecone.io/learn/series/faiss/)|⬜|
 ||[Pinecone: Natural Language Processing for Semantic Search](https://www.pinecone.io/learn/series/nlp/)|0/13|
 ||[Guidance: Token Healing](https://github.com/guidance-ai/guidance/blob/main/notebooks/tutorials/token_healing.ipynb)|⬜|
-||[Deep Research System Card](https://cdn.openai.com/deep-research-system-card.pdf)|✅|
-||[Exploring OpenAI's deep research API model o4-mini-deep-research](https://til.simonwillison.net/llms/o4-mini-deep-research)|✅|
-||[Introduction to deep research in the OpenAI API](https://developers.openai.com/cookbook/examples/deep_research_api/introduction_to_deep_research_api)|✅|
-||[Lessons from building the best Deep Research (and how you can build better agents)](https://onyx.app/blog/building-the-best-deep-research)|✅|
+||[Deep Research System Card](https://cdn.openai.com/deep-research-system-card.pdf)|⬜|
+||[Exploring OpenAI's deep research API model o4-mini-deep-research](https://til.simonwillison.net/llms/o4-mini-deep-research)|⬜|
+||[Introduction to deep research in the OpenAI API](https://developers.openai.com/cookbook/examples/deep_research_api/introduction_to_deep_research_api)|⬜|
+||[Lessons from building the best Deep Research (and how you can build better agents)](https://onyx.app/blog/building-the-best-deep-research)|⬜|
 
 
 #### Agentic Engineering
 
 |Format|Resource|Progress|
 |---|---|---|
-|DeepLearning.AI|[Agentic AI with Andrew Ng](https://www.deeplearning.ai/courses/agentic-ai/)|✅|
-||[Building Agentic RAG with LlamaIndex](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/)|✅|
-||[Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)|✅|
-||[Building Towards Computer Use with Anthropic](https://www.deeplearning.ai/short-courses/building-towards-computer-use-with-anthropic/)|✅|
-||[Pydantic for LLM Workflows](https://www.deeplearning.ai/short-courses/pydantic-for-llm-workflows/)|✅|
+|DeepLearning.AI|[Agentic AI with Andrew Ng](https://www.deeplearning.ai/courses/agentic-ai/)|⬜|
+||[Building Agentic RAG with LlamaIndex](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/)|⬜|
+||[Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)|⬜|
+||[Building Towards Computer Use with Anthropic](https://www.deeplearning.ai/short-courses/building-towards-computer-use-with-anthropic/)|⬜|
+||[Pydantic for LLM Workflows](https://www.deeplearning.ai/short-courses/pydantic-for-llm-workflows/)|⬜|
 ||[Practical Multi AI Agents and Advanced Use Cases with crewAI](https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/)|⬜|
-||[LLMs as Operating Systems: Agent Memory](https://www.deeplearning.ai/short-courses/llms-as-operating-systems-agent-memory/)|✅|
+||[LLMs as Operating Systems: Agent Memory](https://www.deeplearning.ai/short-courses/llms-as-operating-systems-agent-memory/)|⬜|
 ||[Serverless Agentic Workflows with Amazon Bedrock](https://www.deeplearning.ai/short-courses/serverless-agentic-workflows-with-amazon-bedrock/)|⬜|
 ||[AI Agentic Design Patterns with AutoGen](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)|⬜|
 ||[AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)|⬜|
 ||[Building Your Own Database Agent](https://www.deeplearning.ai/short-courses/building-your-own-database-agent/)|⬜|
-||[Function-Calling and Data Extraction with LLMs](https://www.deeplearning.ai/short-courses/function-calling-and-data-extraction-with-llms/) `59m`|✅|
-||[Evaluating AI Agents](https://www.deeplearning.ai/short-courses/evaluating-ai-agents/) `2h16m`|✅|
+||[Function-Calling and Data Extraction with LLMs](https://www.deeplearning.ai/short-courses/function-calling-and-data-extraction-with-llms/) `59m`|⬜|
+||[Evaluating AI Agents](https://www.deeplearning.ai/short-courses/evaluating-ai-agents/) `2h16m`|⬜|
 ||[Building AI Browser Agents](https://www.deeplearning.ai/short-courses/building-ai-browser-agents)|⬜|
 |Course|[Berkeley: CS294/194-196 Large Language Model Agents](https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc) `0/14 lectures`|⬜|
 ||[Huggingface: Agents Course](https://huggingface.co/learn/agents-course/unit1/messages-and-special-tokens#base-models-vs-instruct-models)|Unit 1|
 ||[Berkeley: Advanced LLM Agents MOOC](https://www.youtube.com/playlist?list=PLS01nW3RtgorL3AW8REU9nGkzhvtn6Egn) `0/12 lectures`|⬜|
-|Youtube|[OpenAI: Assistants & Agents Build Hour](https://vimeo.com/showcase/11333741/video/990334325)|✅|
-||[OpenAI: Function Calling Build Hour](https://vimeo.com/showcase/11333741/video/952127114)|✅|
-||[How to Evaluate Agents: Galileo’s Agentic Evaluations in Action](https://www.youtube.com/watch?v=QvStk5G8BZw)|✅|
-||[Agent Response \| LangSmith Evaluation - Part 24](https://youtu.be/NbQKDfSw3gM?list=PLfaIDFEXuae0um8Fj0V4dHG37fGFU8Q5S)|✅|
-||[Single Step \| LangSmith Evaluation - Part 25](https://youtu.be/AVPflFmRkd4?list=PLfaIDFEXuae0um8Fj0V4dHG37fGFU8Q5S)|✅|
-||[Agent Trajectory \| LangSmith Evaluation - Part 26](https://youtu.be/pvlT056DAHs?list=PLfaIDFEXuae0um8Fj0V4dHG37fGFU8Q5S)|✅|
-||[Evaluating Agents and Assistants: The AI Conference](https://www.youtube.com/watch?v=6uXWhmDRcMc)|✅|
-||[How to Build, Evaluate, and Iterate on LLM Agents](https://youtu.be/0pnEUAwoDP0)|✅|
-||[How Claude Code Works - Jared Zoneraich, PromptLayer](https://www.youtube.com/watch?v=RFKCzGlAU6Q)|✅|
-||[Build Agents That Run for Hours (Without Losing the Plot) — Ash Prabaker & Andrew Wilson, Anthropic](https://www.youtube.com/watch?v=mR-WAvEPRwE)|✅|
-|Article|[Tool Invocation - Demonstrating the Marvel of GPT's Flexibility](https://blog.jnbrymn.com/2024/01/30/the-marvel-of-GPT-generality.html)|✅|
-||[Introducing smolagents, a simple library to build agents](https://huggingface.co/blog/smolagents)|✅|
-||[What Problem Does The Model Context Protocol Solve?](https://www.aihero.dev/what-problem-does-model-context-protocol-solve)|✅|
-||[Don’t Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents)|✅|
-||[Coding Agents 101: The Art of Actually Getting Things Done](https://devin.ai/agents101)|✅|
-||[What makes Claude Code so damn good (and how to recreate that magic in your agent)!?](https://minusx.ai/blog/decoding-claude-code/)|✅|
-||[Anthropic: Building effective agents](https://www.anthropic.com/research/building-effective-agents)|✅|
-||[Anthropic: Building Effective Agents Cookbook](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)|✅|
-||[Anthropic: Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents)|✅|
-||[How System Prompts Define Agent Behavior](https://blog.nilenso.com/blog/2026/02/10/how-system-prompts-define-agent-behaviiour/)|✅|
-||[Components of A Coding Agent](https://magazine.sebastianraschka.com/p/components-of-a-coding-agent)|✅|
+|Youtube|[OpenAI: Assistants & Agents Build Hour](https://vimeo.com/showcase/11333741/video/990334325)|⬜|
+||[OpenAI: Function Calling Build Hour](https://vimeo.com/showcase/11333741/video/952127114)|⬜|
+||[How to Evaluate Agents: Galileo’s Agentic Evaluations in Action](https://www.youtube.com/watch?v=QvStk5G8BZw)|⬜|
+||[Agent Response \| LangSmith Evaluation - Part 24](https://youtu.be/NbQKDfSw3gM?list=PLfaIDFEXuae0um8Fj0V4dHG37fGFU8Q5S)|⬜|
+||[Single Step \| LangSmith Evaluation - Part 25](https://youtu.be/AVPflFmRkd4?list=PLfaIDFEXuae0um8Fj0V4dHG37fGFU8Q5S)|⬜|
+||[Agent Trajectory \| LangSmith Evaluation - Part 26](https://youtu.be/pvlT056DAHs?list=PLfaIDFEXuae0um8Fj0V4dHG37fGFU8Q5S)|⬜|
+||[Evaluating Agents and Assistants: The AI Conference](https://www.youtube.com/watch?v=6uXWhmDRcMc)|⬜|
+||[How to Build, Evaluate, and Iterate on LLM Agents](https://youtu.be/0pnEUAwoDP0)|⬜|
+||[How Claude Code Works - Jared Zoneraich, PromptLayer](https://www.youtube.com/watch?v=RFKCzGlAU6Q)|⬜|
+||[Build Agents That Run for Hours (Without Losing the Plot) — Ash Prabaker & Andrew Wilson, Anthropic](https://www.youtube.com/watch?v=mR-WAvEPRwE)|⬜|
+|Article|[Tool Invocation - Demonstrating the Marvel of GPT's Flexibility](https://blog.jnbrymn.com/2024/01/30/the-marvel-of-GPT-generality.html)|⬜|
+||[Introducing smolagents, a simple library to build agents](https://huggingface.co/blog/smolagents)|⬜|
+||[What Problem Does The Model Context Protocol Solve?](https://www.aihero.dev/what-problem-does-model-context-protocol-solve)|⬜|
+||[Don’t Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents)|⬜|
+||[Coding Agents 101: The Art of Actually Getting Things Done](https://devin.ai/agents101)|⬜|
+||[What makes Claude Code so damn good (and how to recreate that magic in your agent)!?](https://minusx.ai/blog/decoding-claude-code/)|⬜|
+||[Anthropic: Building effective agents](https://www.anthropic.com/research/building-effective-agents)|⬜|
+||[Anthropic: Building Effective Agents Cookbook](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)|⬜|
+||[Anthropic: Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents)|⬜|
+||[How System Prompts Define Agent Behavior](https://blog.nilenso.com/blog/2026/02/10/how-system-prompts-define-agent-behaviiour/)|⬜|
+||[Components of A Coding Agent](https://magazine.sebastianraschka.com/p/components-of-a-coding-agent)|⬜|
 
 ## Technical Skills (Libraries/Frameworks/Tools)
 
@@ -634,13 +633,13 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Format|Resource|Progress|
 |---|---|---|
-|Pluralsight|[CSS Positioning](https://www.pluralsight.com/courses/css-positioning-1834)|✅|
-||[Introduction to CSS](https://www.pluralsight.com/courses/css-intro)|✅|
-||[CSS: Specificity, the Box Model, and Best Practices](https://app.pluralsight.com/interactive-courses/detail/c580b092-d94a-4ed8-8d2a-2f4d0b76f99f)|✅|
-||[CSS: Using Flexbox for Layout](https://app.pluralsight.com/interactive-courses/detail/a089d0a5-4a4c-4c4e-b883-c1bc64009619)|✅|
-||[Code School: Blasting Off with Bootstrap](https://www.pluralsight.com/courses/code-school-blasting-off-with-bootstrap)|✅|
-|Codecademy|[Learn SASS](https://www.codecademy.com/learn/learn-sass)|✅|
-|Course|[CSS for Javascript Developers](https://css-for-js.dev/)|✅|
+|Pluralsight|[CSS Positioning](https://www.pluralsight.com/courses/css-positioning-1834)|⬜|
+||[Introduction to CSS](https://www.pluralsight.com/courses/css-intro)|⬜|
+||[CSS: Specificity, the Box Model, and Best Practices](https://app.pluralsight.com/interactive-courses/detail/c580b092-d94a-4ed8-8d2a-2f4d0b76f99f)|⬜|
+||[CSS: Using Flexbox for Layout](https://app.pluralsight.com/interactive-courses/detail/a089d0a5-4a4c-4c4e-b883-c1bc64009619)|⬜|
+||[Code School: Blasting Off with Bootstrap](https://www.pluralsight.com/courses/code-school-blasting-off-with-bootstrap)|⬜|
+|Codecademy|[Learn SASS](https://www.codecademy.com/learn/learn-sass)|⬜|
+|Course|[CSS for Javascript Developers](https://css-for-js.dev/)|⬜|
 
 
 
@@ -648,14 +647,14 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Format|Resource|Progress|
 |---|---|---|
-|Article|[Django, HTMX and Alpine.js: Modern websites, JavaScript optional](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/)|✅|
+|Article|[Django, HTMX and Alpine.js: Modern websites, JavaScript optional](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/)|⬜|
 
 ### HTML
 
 |Format|Resource|Progress|
 |---|---|---|
-|Codecademy|[Learn HTML](https://www.codecademy.com/learn/learn-html)|✅|
-||[Make a website](https://www.codecademy.com/en/courses/make-a-website)|✅|
+|Codecademy|[Learn HTML](https://www.codecademy.com/learn/learn-html)|⬜|
+||[Make a website](https://www.codecademy.com/en/courses/make-a-website)|⬜|
 |Article|[Alternative Text](https://webaim.org/techniques/alttext/)|⬜|
 
 ### Langchain
@@ -671,35 +670,35 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Format|Resource|Progress|
 |---|---|---|
-|Codecademy|[Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)|✅|
-||[Jquery Track](https://www.codecademy.com/learn/learn-jquery)|✅|
-|Udacity|[ES6 - JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)|✅|
-||[Intro to Javascript](https://www.udacity.com/course/intro-to-javascript--ud803)|✅|
-||[Object Oriented JS 1](https://www.udacity.com/course/object-oriented-javascript--ud015)|✅|
-||[Object Oriented JS 2](https://www.udacity.com/course/object-oriented-javascript--ud711)|✅|
-|Udemy|[Understanding Typescript](https://www.udemy.com/understanding-typescript/)|✅|
+|Codecademy|[Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)|⬜|
+||[Jquery Track](https://www.codecademy.com/learn/learn-jquery)|⬜|
+|Udacity|[ES6 - JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)|⬜|
+||[Intro to Javascript](https://www.udacity.com/course/intro-to-javascript--ud803)|⬜|
+||[Object Oriented JS 1](https://www.udacity.com/course/object-oriented-javascript--ud015)|⬜|
+||[Object Oriented JS 2](https://www.udacity.com/course/object-oriented-javascript--ud711)|⬜|
+|Udemy|[Understanding Typescript](https://www.udemy.com/understanding-typescript/)|⬜|
 
 
 ### Matplotlib
 
 |Format|Resource|Progress|
 |---|---|---|
-|Datacamp|[Introduction to Seaborn](https://www.datacamp.com/courses/introduction-to-seaborn)|✅|
-||[Introduction to Matplotlib](https://www.datacamp.com/courses/introduction-to-matplotlib)|✅|
+|Datacamp|[Introduction to Seaborn](https://www.datacamp.com/courses/introduction-to-seaborn)|⬜|
+||[Introduction to Matplotlib](https://www.datacamp.com/courses/introduction-to-matplotlib)|⬜|
 
 
 ### MLFlow
 
 |Format|Resource|Progress|
 |---|---|---|
-|Datacamp|[Introduction to MLFlow](https://www.datacamp.com/courses/introduction-to-mlflow)|✅|
+|Datacamp|[Introduction to MLFlow](https://www.datacamp.com/courses/introduction-to-mlflow)|⬜|
 
 
 ### Numpy
 
 |Format|Resource|Progress|
 |---|---|---|
-|Youtube|[Numpy Array Broadcasting In Python Explained](https://youtu.be/oG1t3qlzq14)|✅|
+|Youtube|[Numpy Array Broadcasting In Python Explained](https://youtu.be/oG1t3qlzq14)|⬜|
 
 
 ### Nexxt.JS
@@ -712,23 +711,23 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Format|Resource|Progress|
 |---|---|---|
-|Datacamp|[Pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)|✅|
-||[Pandas Joins for Spreadsheet Users](https://www.datacamp.com/courses/pandas-joins-for-spreadsheet-users)|✅|
-||[Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)|✅|
-||[Merging DataFrames with pandas](https://www.datacamp.com/courses/merging-dataframes-with-pandas)|✅|
-||[Data Manipulation with pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas)|✅|
-||[Optimizing Python Code with pandas](https://www.datacamp.com/courses/optimizing-python-code-with-pandas)|✅|
-||[Streamlined Data Ingestion with pandas](https://www.datacamp.com/courses/streamlined-data-ingestion-with-pandas)|✅|
-||[Analyzing Marketing Campaigns with pandas](https://www.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas)|✅|
-||[Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas)|✅|
+|Datacamp|[Pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)|⬜|
+||[Pandas Joins for Spreadsheet Users](https://www.datacamp.com/courses/pandas-joins-for-spreadsheet-users)|⬜|
+||[Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)|⬜|
+||[Merging DataFrames with pandas](https://www.datacamp.com/courses/merging-dataframes-with-pandas)|⬜|
+||[Data Manipulation with pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas)|⬜|
+||[Optimizing Python Code with pandas](https://www.datacamp.com/courses/optimizing-python-code-with-pandas)|⬜|
+||[Streamlined Data Ingestion with pandas](https://www.datacamp.com/courses/streamlined-data-ingestion-with-pandas)|⬜|
+||[Analyzing Marketing Campaigns with pandas](https://www.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas)|⬜|
+||[Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas)|⬜|
 
 
 ### PyTorch
 
 |Format|Resource|Progress|
 |---|---|---|
-|Course|[Deeplizard: Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)|✅|
-|Datacamp|[Introduction to Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)|✅|
+|Course|[Deeplizard: Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)|⬜|
+|Datacamp|[Introduction to Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)|⬜|
 ||[Intermediate Deep Learning with PyTorch](https://app.datacamp.com/learn/courses/intermediate-deep-learning-with-pytorch)|⬜|
 ||[Deep Learning for Text with PyTorch](https://www.datacamp.com/courses/deep-learning-for-text-with-pytorch)|⬜|
 ||[Deep Learning for Images with PyTorch](https://www.datacamp.com/courses/deep-learning-for-images-with-pytorch)|⬜|
@@ -740,26 +739,26 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Format|Resource|Progress|
 |---|---|---|
-|Codecademy|[Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)|✅|
-||[Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)|✅|
+|Codecademy|[Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)|⬜|
+||[Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)|⬜|
 |Course|[NexxtJS: React Foundations](https://nextjs.org/learn/react-foundations)|⬜|
 
 ### Spacy
 
 |Format|Resource|Progress|
 |---|---|---|
-|Datacamp|[Advanced NLP with spaCy](https://www.datacamp.com/courses/advanced-nlp-with-spacy)|✅|
+|Datacamp|[Advanced NLP with spaCy](https://www.datacamp.com/courses/advanced-nlp-with-spacy)|⬜|
 
 ### Tensorflow & Keras
 
 |Format|Resource|Progress|
 |---|---|---|
-|Course|[Deeplizard: Keras - Python Deep Learning Neural Network API](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)|✅|
-|Datacamp|[Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)|✅|
-||[Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)|✅|
-||[Introduction to Deep Learning with Keras](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)|✅|
-||[Advanced Deep Learning with Keras](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)|✅|
-|Udacity|[Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)|✅|
+|Course|[Deeplizard: Keras - Python Deep Learning Neural Network API](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)|⬜|
+|Datacamp|[Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)|⬜|
+||[Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)|⬜|
+||[Introduction to Deep Learning with Keras](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)|⬜|
+||[Advanced Deep Learning with Keras](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)|⬜|
+|Udacity|[Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)|⬜|
 
 
 ## Miscellaneous
@@ -769,10 +768,11 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Format|Resource|Progress|
 |---|---|---|
-|Course|[Build Once, Sell Twice](https://visualizevalue.com/products/build-once-sell-twice-the-productization-playbook)|✅|
+|Course|[Build Once, Sell Twice](https://visualizevalue.com/products/build-once-sell-twice-the-productization-playbook)|⬜|
 
 ### Search Engine Optimization (SEO)
 
 |Format|Resource|Progress|
 |---|---|---|
-|Course|[Compound Content](https://visualizevalue.com/products/compound-content)|✅|
+|Course|[Compound Content](https://visualizevalue.com/products/compound-content)|⬜|
+
